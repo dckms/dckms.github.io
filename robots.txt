@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow: /system-architecture/_sources/
+Disallow: /system-architecture/LICENSE
